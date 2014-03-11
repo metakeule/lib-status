@@ -1,0 +1,114 @@
+{
+  "github.com/go-on/bootstrap/bs3": {
+    "VCM": "git",
+    "Rev": "27e98512e033734a192c8175a567591bdbd71cb4",
+    "Parent": "github.com/metakeule/lib-status",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/bootstrap"
+  },
+  "github.com/go-on/html": {
+    "VCM": "git",
+    "Rev": "a171b405de48bfb446da5ca3a8223706e995b661",
+    "Parent": "github.com/metakeule/lib-status",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/html"
+  },
+  "github.com/go-on/html/attr": {
+    "VCM": "git",
+    "Rev": "a171b405de48bfb446da5ca3a8223706e995b661",
+    "Parent": "github.com/metakeule/lib-status",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/html"
+  },
+  "github.com/go-on/html/entity": {
+    "VCM": "git",
+    "Rev": "a171b405de48bfb446da5ca3a8223706e995b661",
+    "Parent": "github.com/metakeule/lib-status",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/html"
+  },
+  "github.com/go-on/html/h": {
+    "VCM": "git",
+    "Rev": "a171b405de48bfb446da5ca3a8223706e995b661",
+    "Parent": "github.com/metakeule/lib-status",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/html"
+  },
+  "github.com/go-on/html/tag": {
+    "VCM": "git",
+    "Rev": "a171b405de48bfb446da5ca3a8223706e995b661",
+    "Parent": "github.com/metakeule/lib-status",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/html"
+  },
+  "github.com/go-on/meta": {
+    "VCM": "git",
+    "Rev": "9a850915065ac81b287e19b2a1dc5de9d4b84026",
+    "Parent": "github.com/go-on/router",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/meta"
+  },
+  "github.com/go-on/method": {
+    "VCM": "git",
+    "Rev": "f7f9bf0f8f3b4cac9aa8243db45d503133d6707d",
+    "Parent": "github.com/go-on/router",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/method"
+  },
+  "github.com/go-on/queue/q": {
+    "VCM": "git",
+    "Rev": "663bd6b19c854a43c0a778ca12a9330865288aeb",
+    "Parent": "github.com/metakeule/lib-status",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/queue"
+  },
+  "github.com/go-on/replacer": {
+    "VCM": "git",
+    "Rev": "5e225d64c4fecbeb316c735e373d713f152415e7",
+    "Parent": "github.com/go-on/html",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/replacer"
+  },
+  "github.com/go-on/router": {
+    "VCM": "git",
+    "Rev": "e5bd1be18c4397cdce2a75524b5d11855c24858a",
+    "Parent": "github.com/metakeule/lib-status",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/router"
+  },
+  "github.com/go-on/template": {
+    "VCM": "git",
+    "Rev": "4be2586615c2f5a42c0d285545873f27041a2e4b",
+    "Parent": "github.com/go-on/html",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/template"
+  },
+  "github.com/go-on/wrap": {
+    "VCM": "git",
+    "Rev": "64a8193969d2cf9a0dd3abcb1a6f43043076c6ab",
+    "Parent": "github.com/go-on/router",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/wrap"
+  },
+  "github.com/go-on/wrap-contrib-testing/wrapstesting": {
+    "VCM": "git",
+    "Rev": "c6ee840bf08f7f0572299f64bee27a72e9e77667",
+    "Parent": "github.com/go-on/router",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/wrap-contrib-testing"
+  },
+  "github.com/go-on/wrap-contrib/helper": {
+    "VCM": "git",
+    "Rev": "33a7f087fa2fd75a12651a618b5de91bd4dd70e8",
+    "Parent": "github.com/go-on/html",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/wrap-contrib"
+  },
+  "github.com/go-on/wrap-contrib/wraps": {
+    "VCM": "git",
+    "Rev": "33a7f087fa2fd75a12651a618b5de91bd4dd70e8",
+    "Parent": "github.com/go-on/router",
+    "Tag": "",
+    "RepoRoot": "github.com/go-on/wrap-contrib"
+  }
+}
